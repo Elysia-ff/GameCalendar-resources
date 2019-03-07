@@ -1,0 +1,100 @@
+﻿[
+    {
+        "name": "Metro Exodus (Steam)",
+        "date": "2020-02-15",
+        "developer": "4A Games",
+        "platform": "PC",
+        "koreanPatch": "Y"
+    },
+    {
+        "name": "Generation Zero",
+        "date": "2019-03-26",
+        "developer": "Avalanche Studios",
+        "platform": "PS4/XB1/PC",
+        "koreanPatch": "N"
+    },
+    {
+        "name": "Days Gone",
+        "date": "2019-04-26",
+        "developer": "SIE Bend Studio",
+        "platform": "PS4",
+        "koreanPatch": "?"
+    },
+    {
+        "name": "FFXIV ShadowBringers",
+        "date": "2019-07-02",
+        "developer": "Square Enix",
+        "platform": "PC",
+        "koreanPatch": "N"
+    },
+    {
+        "name": "Death Stranding",
+        "date": "?",
+        "developer": "Kojima Productions",
+        "platform": "PS4",
+        "koreanPatch": "?"
+    },
+    {
+        "name": "Final Fantasy VII Remake",
+        "date": "?",
+        "developer": "Square Enix",
+        "platform": "PS4",
+        "koreanPatch": "?"
+    },
+    {
+        "name": "Cyberpunk 2077",
+        "date": "?",
+        "developer": "CD PROJEKT RED",
+        "platform": "PS4/XB1/PC/Switch",
+        "koreanPatch": "Y"
+    },
+    {
+        "name": "The Last of Us Part II",
+        "date": "?",
+        "developer": "Naughty Dog",
+        "platform": "PS4",
+        "koreanPatch": "?"
+    },
+    {
+        "name": "World War Z",
+        "date": "2019",
+        "developer": "Saber Interactive",
+        "platform": "PS4/XB1/PC",
+        "koreanPatch": "?"
+    },
+    {
+        "name": "Granblue Fantasy: Relink",
+        "date": "?",
+        "developer": "PlatinumGames",
+        "platform": "PS4",
+        "koreanPatch": "?"
+    },
+    {
+        "name": "Mount & Blade II: Bannerlord",
+        "date": "?",
+        "developer": "TaleWorlds Entertainment",
+        "platform": "PS4/XB1/PC",
+        "koreanPatch": "?"
+    },
+    {
+        "name": "Atomic Heart",
+        "date": "2019",
+        "developer": "Mundfish",
+        "platform": "PS4/XB1/PC",
+        "koreanPatch": "?"
+    },
+    {
+        "name": "Ready Or Not",
+        "date": "?",
+        "developer": "Void Interactive",
+        "platform": "PS4/XB1/PC",
+        "koreanPatch": "?"
+    },
+    {
+        "name": "GTFO",
+        "date": "2019 Spring",
+        "developer": "10 Chambers Collective",
+        "platform": "PC",
+        "koreanPatch": "?"
+    }
+]
