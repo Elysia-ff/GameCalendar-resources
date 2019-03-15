@@ -85,7 +85,7 @@
     },
     {
         "name": "Ready Or Not",
-        "date": "?",
+        "date": "2020 4Q",
         "developer": "Void Interactive",
         "platform": "PS4/XB1/PC",
         "koreanPatch": "?"
@@ -96,5 +96,26 @@
         "developer": "10 Chambers Collective",
         "platform": "PC",
         "koreanPatch": "?"
+    },
+    {
+        "name": "13기병 방위권",
+        "date": "2019 Fall",
+        "developer": "Vanillaware",
+        "platform": "PS4",
+        "koreanPatch": "Y"
+    },
+    {
+        "name": "Back 4 Blood",
+        "date": "?",
+        "developer": "Turtle Rock Studios",
+        "platform": "PS4/XB1/PC",
+        "koreanPatch": "?"
+    },
+    {
+        "name": "FFXIV ShadowBringers Kor",
+        "date": "2019 Dec",
+        "developer": "Square Enix",
+        "platform": "PC",
+        "koreanPatch": "Y"
     }
 ]
