@@ -18,7 +18,7 @@
         "date": "2019-04-26",
         "developer": "SIE Bend Studio",
         "platform": "PS4",
-        "koreanPatch": "?"
+        "koreanPatch": "Y"
     },
     {
         "name": "FFXIV ShadowBringers",
@@ -57,10 +57,10 @@
     },
     {
         "name": "World War Z",
-        "date": "2019",
+        "date": "2019 May",
         "developer": "Saber Interactive",
         "platform": "PS4/XB1/PC",
-        "koreanPatch": "?"
+        "koreanPatch": "PS4 Only"
     },
     {
         "name": "Granblue Fantasy: Relink",
