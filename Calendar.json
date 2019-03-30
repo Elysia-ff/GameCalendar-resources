@@ -1,6 +1,6 @@
 ﻿[
     {
-        "name": "Metro Exodus (Steam)",
+        "name": "Metro Exodus",
         "date": "2020-02-15",
         "developer": "4A Games",
         "platform": "PC",
@@ -24,7 +24,7 @@
         "name": "FFXIV ShadowBringers",
         "date": "2019-07-02",
         "developer": "Square Enix",
-        "platform": "PC",
+        "platform": "PS4/PC",
         "koreanPatch": "N"
     },
     {
@@ -57,10 +57,10 @@
     },
     {
         "name": "World War Z",
-        "date": "2019 May",
+        "date": "2019-04-16",
         "developer": "Saber Interactive",
-        "platform": "PS4/XB1/PC",
-        "koreanPatch": "PS4 Only"
+        "platform": "PS4/XB1",
+        "koreanPatch": "Y"
     },
     {
         "name": "Granblue Fantasy: Relink",
