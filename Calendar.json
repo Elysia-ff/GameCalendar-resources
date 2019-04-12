@@ -117,5 +117,12 @@
         "developer": "Square Enix",
         "platform": "PC",
         "koreanPatch": "Y"
+    },
+    {
+        "name": "Borderlands 3",
+        "date": "2020 Apr",
+        "developer": "Gearbox Software",
+        "platform": "PC",
+        "koreanPatch": "Y"
     }
 ]
