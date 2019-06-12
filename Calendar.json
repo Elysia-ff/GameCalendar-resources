@@ -29,21 +29,21 @@
     },
     {
         "name": "Death Stranding",
-        "date": "?",
+        "date": "2019-11-08",
         "developer": "Kojima Productions",
         "platform": "PS4",
         "koreanPatch": "?"
     },
     {
         "name": "Final Fantasy VII Remake",
-        "date": "?",
+        "date": "2020-03-03",
         "developer": "Square Enix",
         "platform": "PS4",
         "koreanPatch": "?"
     },
     {
         "name": "Cyberpunk 2077",
-        "date": "?",
+        "date": "2020-04-16",
         "developer": "CD PROJEKT RED",
         "platform": "PS4/XB1/PC/Switch",
         "koreanPatch": "Y"
@@ -92,7 +92,7 @@
     },
     {
         "name": "GTFO",
-        "date": "2019 Spring",
+        "date": "2019",
         "developer": "10 Chambers Collective",
         "platform": "PC",
         "koreanPatch": "?"
@@ -123,6 +123,13 @@
         "date": "2020 Apr",
         "developer": "Gearbox Software",
         "platform": "PC",
+        "koreanPatch": "Y"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare",
+        "date": "2019-10-25",
+        "developer": "Infinity Ward",
+        "platform": "PS4/XB1/PC",
         "koreanPatch": "Y"
     }
 ]
